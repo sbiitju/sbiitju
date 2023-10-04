@@ -17,7 +17,7 @@ I am a dedicated professional seeking a challenging career opportunity where I c
 
 - B.Sc. in IT from Jahangirnagar University
   - Current Status: Passed
-  - Result in CGPA till Last Semester: 3.26/4.00
+  - Result in CGPA : 3.26/4.00
   - Tentative Passing Time: 03-2017 to 02-2022
 
 ## Work Experience
