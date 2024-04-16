@@ -32,10 +32,9 @@ I am a dedicated professional seeking a challenging career opportunity where I c
 ## Skill/Knowledge
 
 ### Computer Skills/Knowledge
-- Java, Kotlin, Dart, NodeJS, Python, JavaScript, C, XML, HTML, CSS, GraphQL, Rest API
+- Flutter, Dart, NodeJS,Java, Kotlin, JavaScript, C, XML, HTML, CSS, GraphQL, Rest API
 - Android app development
 - Flutter
-- Blockchain
 - NodeJS
 - Proficient in Windows, Linux (Ubuntu), and MacOS
 - Firebase, SQLite
@@ -60,7 +59,7 @@ I am a dedicated professional seeking a challenging career opportunity where I c
    - Year: 09/01/23
    - Technology Used: Flutter, HTTP, Rest API, GetX, MVVM architecture, DioLogger
    - Technical Responsibility: Planning for new features, architecture design, implementing new features, fixing bugs, and experimenting with new technology.
-   - Project Link: [GitHub](https://github.com/sbiitju/sbiitju/tree/chatgpt)
+   - Project Link:  [Private](#)
    - Project Duration: January 2023 - Continuing
    - Short Description: ChatGPT mobile version, which can interact with ChatGPT data models that can understand and generate natural language.
    
