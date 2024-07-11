@@ -18,14 +18,13 @@ I am a dedicated professional seeking a challenging career opportunity where I c
 - B.Sc. in IT from Jahangirnagar University
   - Current Status: Passed
   - Result in CGPA : 3.26/4.00
-  - Tentative Passing Time: 03-2017 to 02-2022
 
 ## Work Experience
 
 | Name of the Organization | Position                    | From (DD-MM-YYYY) | To (DD-MM-YYYY) | Major Job Responsibility                                        |
 |--------------------------|-----------------------------|--------------------|------------------|-----------------------------------------------------------------|
 | Brain Station 23 Ltd.    | Software Engineer | 01/01/2024         | Present          | Android-Kotlin-Flutter-Dart-NodeJS                              |
-| Brain Station 23 Ltd.    | Associate Software Engineer | 01/03/2022         | 31/12/2023          | Android-Kotlin-Flutter-Dart-NodeJS                              |
+| Brain Station 23 Ltd.    | Associate Software Engineer | 01/03/2022         | 31/12/2023          | Flutter-Dart-Android-Kotlin-KMP                            |
 | Jahangirnagar University  | Teaching Assistant          | 01/11/2021         | 28/02/2022       | Teacher Assistant on Mobile Application Development Course    |
 | CRID USA                 | Mobile Application Developer | 27/10/2021         | 28/02/2022       | Develop both Native Android & Flutter Project                  |
                                     
