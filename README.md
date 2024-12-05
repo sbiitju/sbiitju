@@ -21,8 +21,6 @@ Seeking a role to leverage my expertise in **Flutter** and **Android development
 | **Certification** | **Discipline/Major** | **Institution**                 | **Status** | **CGPA** | **Passing**  |
 |-------------------|----------------------|----------------------------------|------------|----------|--------------|
 | B.Sc.             | IT                   | Jahangirnagar University         | Passed     | 3.26/4.00| Feb 2022     |
-| HSC               | Science              | Cantonment College, Jessore      | Passed     | 4.58/5.00| May 2015     |
-| SSC               | Science              | Dargahpur Siddiqia Alim Madrasah | Passed     | 5.00/5.00| Jan 2013     |
 
 ---
 
@@ -34,8 +32,6 @@ Seeking a role to leverage my expertise in **Flutter** and **Android development
 | Brain Station 23 Ltd.        | Associate Software Engineer| Mar 2022       | Dec 2023       | Android (Kotlin), Flutter, Dart, NodeJS.           |
 | Jahangirnagar University     | Teaching Assistant (Part-time) | Nov 2021  | Feb 2022       | Assistant for Mobile Application Development Course.|
 | CRID USA                    | Mobile Application Developer (Part-time)| Oct 2021 | Feb 2022 | Developed Native Android & Flutter projects.       |
-| Pioneer Alpha               | Android Developer (Part-time)| Jun 2020     | Jan 2021       | Android App Development.                           |
-| BdLabIT                     | Junior Android Developer (Part-time)| Apr 2019 | Dec 2019      | Android App Development.                           |
 
 ---
 
