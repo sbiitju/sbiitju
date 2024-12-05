@@ -46,27 +46,29 @@ Seeking a role to leverage my expertise in **Flutter** and **Android development
 ---
 
 ## Major Projects
-
-### 1. Shanta EasyX  
+### 1. Prime Pay (Continue)
+**Technology Used**: Flutter, Micro Frontend, Riverpod, Clean Architecture  
+- Corporate Banking App for Prime Bank PLC
+  
+### 2. Shanta EasyX  
 **Technology Used**: Flutter, Micro Frontend, Bloc, Clean Architecture  
-- Developed a mobile app for stock trading on DSE and CSE with real-time data, dual exchange trading, and biometric login.
+- Developed a mobile app for stock trading on DSE and CSE with real-time data and dual exchange trading.
 
-### 2. Chamak (Customer, Seller & Delivery App)  
+### 3. Chamak (Customer, Seller & Delivery App)  
 **Technology Used**: Flutter, Clean Architecture with Bloc pattern  
 - Developed apps for warehouse orders, customer orders, inventory tracking, and delivery management with real-time features.
 
-### 3. Jacobson Dental Inventory Management  
+### 4. Jacobson Dental Inventory Management  
 **Technology Used**: Flutter, Bloc, Clean Architecture, Push Notifications, Firebase  
 - Developed an app for dental clinics to manage inventory with real-time tracking and automated stock alerts.
 
-### 4. BioNippy (Customer & Delivery App)  
+### 5. BioNippy (Customer & Delivery App)  
 **Technology Used**: Flutter, Clean Architecture with Bloc pattern  
 - Developed customer and delivery apps for health-related product orders, tracking, and route optimization.
 
-### 5. Urgent Service  
-**Technology Used**: Flutter, HTTP, REST API, GetX, MVVM architecture  
-- Implemented features and improved user experience for an urgent service app.
-
+### 6. General Pharmaceutical Ltd. ERP 
+**Technology Used**: Android SDK, Kotlin Jetpack Compose, MVVM Architecture, Hilt, Coroutine, Retrofit, Android Jetpack Components 
+- Implementing new features as per requirements or modifying existing features with a defined design. Fixing UI and functionality-related issues to improve user experience through the full application.
 ---
 
 ## Language Proficiency
