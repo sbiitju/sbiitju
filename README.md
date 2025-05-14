@@ -28,7 +28,7 @@ Seeking a role to leverage my expertise in **Flutter** and **Android development
 
 | **Organization**            | **Position**               | **From**       | **To**         | **Responsibilities**                               |
 |-----------------------------|----------------------------|----------------|----------------|----------------------------------------------------|
-| Brain Station 23 Ltd.        | Software Engineer          | Jan 2024       | Present        | Advanced Flutter, KMM development.                 |
+| Brain Station 23 Ltd.        | Software Engineer II         | Jan 2024       | Present        | Advanced Flutter, KMM development.                 |
 | Brain Station 23 Ltd.        | Associate Software Engineer| Mar 2022       | Dec 2023       | Android (Kotlin), Flutter, Dart, NodeJS.           |
 | Jahangirnagar University     | Teaching Assistant (Part-time) | Nov 2021  | Feb 2022       | Assistant for Mobile Application Development Course.|
 | CRID USA                    | Mobile Application Developer (Part-time)| Oct 2021 | Feb 2022 | Developed Native Android & Flutter projects.       |
